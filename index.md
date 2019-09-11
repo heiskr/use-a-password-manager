@@ -19,15 +19,15 @@ A password manager will create a strong unique password for each website you use
 
 ### I want easy
 
-[1Password](https://1password.com/sign-up/) is $3/month for an individual or $5/month for a family.
+- [1Password](https://1password.com/sign-up/) is $3/month for an individual or $5/month for a family.
   
 ### I want free
 
-[LastPass](https://lastpass.com/create-account.php) has a free account.
+- [LastPass](https://lastpass.com/create-account.php) has a free account.
 
 ### I don't trust "the cloud"
 
-Download [KeePass](https://keepass.info/download.html).
+- Download [KeePass](https://keepass.info/download.html).
 
 ## Two-factor authentication
 
