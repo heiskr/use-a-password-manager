@@ -25,7 +25,7 @@ A password manager stores and organizes your passwords. A password manager will 
 
 ### I don't trust "the cloud"
 
-- Download [KeePass](https://keepass.info/download.html).
+- Download [KeePassXC](https://keepassxc.org/download/).
 
 ## Two-factor authentication
 
