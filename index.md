@@ -14,7 +14,7 @@ If you do any of these, attackers will be more likely to target you.
 
 A password manager stores and organizes your passwords. A password manager will create a strong unique password for each website you use.
 
-## Get as password manager
+## Get a password manager
 
 ### I want easy
 
