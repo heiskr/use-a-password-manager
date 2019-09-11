@@ -7,13 +7,14 @@ title: Use a password manager
 
 - Do you use the same or similar passwords on many sites?
 - Do you use passwords that are less than 12 characters?
-- Do you use common passwords and patterns?
+- Do you use common passwords, such as `letmein` or `trustno1`? 
+- Do you use a pattern to create passwords, such as `a1s2d3f4` or `147258369`?
 
-If you do any of these three behaviors, attackers will be more likely to target you.
+If you do any of these, attackers will be more likely to target you.
 
 A password manager stores and organizes your passwords. A password manager will create a strong unique password for each website you use.
 
-## Do one of these
+## Get as password manager
 
 ### I want easy
 
@@ -27,13 +28,13 @@ A password manager stores and organizes your passwords. A password manager will 
 
 - Download [KeePassXC](https://keepassxc.org/download/).
 
-## Two-factor authentication
+## Update your passwords
 
-After you have a password manager, enable two-factor authentication for:
+After you have a password manager, update your password and enable two-factor authentication for:
 
-- Your email account
-- Your bank account
-- Your social media accounts
+1. Your email account
+2. Your bank account
+3. Your social media accounts
 
 ---
 
