@@ -31,7 +31,7 @@ A password manager will create a strong unique password for each website you use
 
 ## Two-factor authentication
 
-After you have a password manager, consider enabling two-factor authentication for:
+After you have a password manager, enable two-factor authentication for:
 
 - Your email account
 - Your bank account
