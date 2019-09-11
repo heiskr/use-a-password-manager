@@ -5,31 +5,38 @@ title: Use a password manager
 
 # Use a password manager
 
-A password manager does X. Why you should use one.
+A password manager stores and organizes your passwords.
 
-### I need X 
+If you don't use a password manager you are probably:
 
-Use [link]
+- using the same or similar passwords on many sites
+- using passwords that are too short
+- using common passwords and patterns
 
-x uses it.
+A password manager will create a strong unique password for each website you use.
+
+## Options
+
+### I want easy
+
+[1Password](https://1password.com/sign-up/) is $3/month for an individual or $5/month for a family.
   
-### I need X 
+### I want free
 
-Use [link]
+[LastPass](https://lastpass.com/create-account.php) has a free account.
 
-x uses it.
-  
-### I need X
+### I don't trust "the cloud"
 
-Use [link]
+Download [KeePass](https://keepass.info/download.html).
 
-x uses it.
+## Two-factor authentication
 
+After you have a password manager, consider enabling two-factor authentication for:
 
+- Your email account
+- Your bank account
+- Your social media accounts
 
-consider 2fa
+---
 
-
-footer
-
-disclaim warranty
+<small>Updated 2019-09-11. This is not legal advice. This page is provided "as is" -- no warranties of any kind including merchantability, fitness for a particular purpose, and noninfringement. See <https://unlicense.org/>.</small>
