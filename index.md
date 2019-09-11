@@ -5,15 +5,15 @@ title: Use a password manager
 
 # Use a password manager
 
-A password manager stores and organizes your passwords. A password manager will create a strong unique password for each website you use.
+Do you do any of these?
 
-If you don't use a password manager you are probably:
-
-- using the same or similar passwords on many sites
-- using passwords that are too short
-- using common passwords and patterns
+- use the same or similar passwords on many sites
+- use passwords that are less than 12 characters
+- use common passwords and patterns
 
 If you do any of these three behaviors, attackers will be more likely to target you.
+
+A password manager stores and organizes your passwords. A password manager will create a strong unique password for each website you use.
 
 ## Do one of these
 
