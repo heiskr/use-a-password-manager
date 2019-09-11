@@ -5,11 +5,9 @@ title: Use a password manager
 
 # Use a password manager
 
-Do you do any of these?
-
-- use the same or similar passwords on many sites
-- use passwords that are less than 12 characters
-- use common passwords and patterns
+- Do you use the same or similar passwords on many sites?
+- Do you use passwords that are less than 12 characters?
+- Do you use common passwords and patterns?
 
 If you do any of these three behaviors, attackers will be more likely to target you.
 
