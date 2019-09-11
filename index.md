@@ -30,4 +30,4 @@ After you have a password manager, _update your password_ and _enable two-factor
 
 ---
 
-<small>Updated 2019-09-11. This is not legal advice. This page is provided "as is" -- no warranties of any kind including merchantability, fitness for a particular purpose, and noninfringement. See <https://unlicense.org/>.</small>
+<small>Updated 2019-09-11. This is not legal advice. This page is provided "as is". No warranties of any kind including merchantability, fitness for a particular purpose, and noninfringement. See <https://unlicense.org/>.</small>
