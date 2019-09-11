@@ -4,6 +4,6 @@ A simple one-page describing to non-technical users why and how to get a passwor
 
 | | |
 | --- | --- |
-| <img width="745" alt="Screen Shot 2019-09-11 at 11 15 32 AM" src="https://user-images.githubusercontent.com/1221423/64723549-93632d00-d485-11e9-8c6a-334aef2797da.png"> | <img width="792" alt="Screen Shot 2019-09-11 at 11 02 32 AM" src="https://user-images.githubusercontent.com/1221423/64722669-c5738f80-d483-11e9-8d09-b8ca6a2f9d76.png"> |
+| <img width="787" alt="Screen Shot 2019-09-11 at 1 38 10 PM" src="https://user-images.githubusercontent.com/1221423/64733367-7c2e3a80-d499-11e9-997c-66e36f467b8c.png"> | <img width="787" alt="Screen Shot 2019-09-11 at 1 38 03 PM" src="https://user-images.githubusercontent.com/1221423/64733369-7c2e3a80-d499-11e9-99c3-f94225d246e4.png"> |
 
 Released under <http://unlicense.org>
