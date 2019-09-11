@@ -15,7 +15,7 @@ If you don't use a password manager you are probably:
 
 A password manager will create a strong unique password for each website you use.
 
-## Options
+## Do one of these
 
 ### I want easy
 
