@@ -17,7 +17,7 @@ With a password manager, you can create and save a strong unique password for ea
 ## Get a password manager
 
 - **I want easy.** [1Password](https://1password.com/sign-up/) is $3/month for an individual or $5/month for a family.
-- **I want free.** [LastPass](https://lastpass.com/create-account.php) has a free account.
+- **I want free.** [Bitwarden](https://bitwarden.com) has a free account.
 - **I don't trust "the cloud".** Download [KeePassXC](https://keepassxc.org/download/).
 
 ## Update your passwords
